@@ -5,6 +5,7 @@ You can download the datasets from the links below:
 
 + [SoyLocal, SoyGlobal, SoyGene, SoyAge, and Cotton](https://pan.baidu.com/s/1bPJYmFGWJg2eTr5Ipfw6uA). Access code: iccv
 + [SoyCultivar200](https://drive.google.com/file/d/1XsWZPYYrDsCwAy5r4t3I1F_lOOrGGhgf/view)
++ [Sweet cherry](https://github.com/WeizhenLiuBioinform/mfcis)
 
 
 ## Run the experiments.
