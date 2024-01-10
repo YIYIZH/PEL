@@ -3,8 +3,7 @@
 ## Dataset
 You can download the datasets from the links below:
 
-+ [CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html).
-+ [Cotton and Soy.Loc](https://drive.google.com/drive/folders/1UkWRepieAvEVEn3Z8n1Zx04bASvvqL7G?usp=sharing).
++ [SoyLocal, SoyGlobal, SoyGene, SoyAge, and Cotton](https://pan.baidu.com/s/1bPJYmFGWJg2eTr5Ipfw6uA). Access code: iccv
 
 
 ## Run the experiments.
