@@ -271,7 +271,7 @@ if __name__ == "__main__":
 
     # define criterion
     criterion = EnhancedLoss(args)
-    trainable_list.append(criterion.embed)
+    #trainable_list.append(criterion.embed)
 
     if torch.cuda.is_available():
         model = torch.nn.DataParallel(model, device_ids=gpus).cuda()
